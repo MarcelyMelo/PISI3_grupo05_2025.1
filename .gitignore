@@ -1,5 +1,6 @@
 # Ignorar o ambiente virtual
 venv/
+.venv/
 
 # Arquivos temporários do sistema
 *.pyc
